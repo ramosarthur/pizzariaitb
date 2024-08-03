@@ -1,8 +1,8 @@
-import margherita from "../assets/imagens/margherita.png"
-import pepperoni from "../assets/imagens/pepperoni.png"
-import quattroformaggi from "../assets/imagens/quattroformaggi.png"
-import hawaiana from "../assets/imagens/hawaiana.png"
+import atum from "../assets/imagens/atum.png"
 import calabresa from "../assets/imagens/calabresa.png"
+import frango from "../assets/imagens/frango.png"
+import mussarela from "../assets/imagens/mussarela.png"
+import portuguesa from "../assets/imagens/portuguesa.png"
 
 const Pizzas = [ 
     {
@@ -10,7 +10,7 @@ const Pizzas = [
     "nome":"atum",
     "descrição":
     "Pizza clássica com molho de tomate, mozzarella e manjericão.",
-    "imagem": margherita
+    "imagem": margherit
     },
     {
     "id": 2,

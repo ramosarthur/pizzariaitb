@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import pizzas from '../shared/pizzas'
+import pizzas from '../shared/Pizzas'
 
 const Listagem = () => {
 
@@ -17,18 +17,17 @@ const Listagem = () => {
             /> 
         </li>
     )
-
     return (
         <>
             <h2 style={{textAlign: 'center'}}>
                 Pizzas ITB
             </h2>
             <ul>
-                 <ItensLista />
+                <ItensLista />
             </ul>
-           
+
         </>
     )
-}
+} 
 
 export default Listagem

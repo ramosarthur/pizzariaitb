@@ -1,40 +1,45 @@
-import mussarela from "../assets/images/mussarela.png"
-import calabresa from "../assets/images/calabresa.png"
-import atum from "../assets/images/atum.png"
-import portuguesa from "../assets/images/portuguesa.png"
-import frango from "../assets/images/frango.png"
+import margherita from "../assets/imagens/margherita.png"
+import pepperoni from "../assets/imagens/pepperoni.png"
+import quattroformaggi from "../assets/imagens/quattroformaggi.png"
+import hawaiana from "../assets/imagens/hawaiana.png"
+import calabresa from "../assets/imagens/calabresa.png"
 
-const Pizzas = [
+const Pizzas = [ 
     {
-      "id": 1,
-      "nome": "Mussarela",
-      "descricao": "Molho de tomate e mussarela.",
-      "imagem": mussarela
+    "id": 1,
+    "nome":"Margherita",
+    "descrição":
+    "Pizza clássica com molho de tomate, mozzarella e manjericão.",
+    "imagem": margherita
     },
     {
-      "id": 2,
-      "nome": "Frango com Catupiry",
-      "descricao": "Molho de tomate, mussarela, frango desfiado e catupiry.",
-      "imagem": frango
+    "id": 2,
+    "nome":"Pepperoni",
+    "descrição":"Pizza com molho de tomate, mozzarella e fatias de pepperoni.",
+    "imagem": pepperoni
     },
     {
-      "id": 3,
-      "nome": "Portuguesa",
-      "descricao": "Molho de tomate, mussarela, presunto, ovo, cebola, azeitona e orégano.",
-      "imagem": portuguesa
+    "id": 3,
+    "nome" :
+    "Quattro Formaggi",
+    "descrição":"Pizza com uma mistura de quatro queijos: mozzarella, gorgonzola, parmesão e fontina",
+    "imagem": quattroformaggi
     },
     {
-      "id": 4,
-      "nome": "Calabresa",
-      "descricao": "Molho de tomate, mussarela, calabresa e cebola.",
-      "imagem": calabresa
+    "id": 4,
+    "nome":"Hawaiana",
+    "descrição":
+    "Pizza com molho de tomate, mozzarella, presunto e abacaxi.",
+    "imagem": hawaiana
     },
     {
-      "id": 5,
-      "nome": "Atum",
-      "descricao": "Molho de tomate, mussarela, atum e tomate.",
-      "imagem": atum
+    "id": 5,
+    "nome":
+    "Calabresa",
+    "descrição":"Pizza com molho de tomate, mozzarella e linguiça calabresa.",
+    "imagem": calabresa
     },
-  ]
 
-  export default Pizzas;
+]
+
+export default Pizzas;

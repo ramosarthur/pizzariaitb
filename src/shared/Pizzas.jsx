@@ -8,34 +8,32 @@ const Pizzas = [
     {
     "id": 1,
     "nome":"atum",
-    "descrição":
-    "Pizza clássica com molho de tomate, mozzarella e manjericão.",
-    "imagem": margherit
+    "descrição": "Molho de tomate, queijo mussarela, atum em pedaços, cebola em rodelas, orégano e azeitonas pretas..",
+    "imagem": atum 
     },
     {
     "id": 2,
     "nome":"calabresa",
-    "descrição":"Pizza com molho de tomate, mozzarella e fatias de pepperoni.",
-    "imagem": pepperoni
+    "descrição":": Molho de tomate, queijo mussarela, fatias de linguiça calabresa, cebola em rodelas, orégano e azeitonas pretas.",
+    "imagem": calabresa
     },
     {
     "id": 3,
     "nome" : "frango",
-    "descrição":"Pizza com uma mistura de quatro queijos: mozzarella, gorgonzola, parmesão e fontina",
-    "imagem": quattroformaggi
+    "descrição":"Molho de tomate, queijo mussarela, frango desfiado, milho, catupiry (ou requeijão cremoso), orégano e azeitonas.",
+    "imagem": frango
     },
     {
     "id": 4,
     "nome": "mussarela",
-    "descrição":
-    "Pizza com molho de tomate, mozzarella, presunto e abacaxi.",
-    "imagem": hawaiana
+    "descrição": " Molho de tomate, uma generosa camada de queijo mussarela, orégano e azeitonas.",
+    "imagem": mussarela
     },
     {
     "id": 5,
     "nome": "portuguesa",
-    "descrição":"Pizza com molho de tomate, mozzarella e linguiça calabresa.",
-    "imagem": calabresa
+    "descrição":"Molho de tomate, queijo mussarela, presunto, cebola em rodelas, ovos cozidos em fatias, ervilha, pimentão, azeitonas pretas e orégano.",
+    "imagem": portuguesa
     },
 
 ]

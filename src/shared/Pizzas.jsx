@@ -26,7 +26,7 @@ const Pizzas = [
     },
     {
     "id": 4,
-    "nome":"mussarela",
+    "nome": "mussarela",
     "descrição":
     "Pizza com molho de tomate, mozzarella, presunto e abacaxi.",
     "imagem": hawaiana
